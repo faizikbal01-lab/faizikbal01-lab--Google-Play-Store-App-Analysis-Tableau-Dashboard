@@ -100,5 +100,3 @@ The report consists of **two pages** of interactive visual analysis:
 - **GitHub:** [hub.com/faizikbal01-lab](https://github.com/your-username)
 
 
-
-## Repository Structure
